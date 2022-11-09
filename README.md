@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2 align="left">about me 😶‍</h2>
-  <img align="right" src="rightpic.webp" height="200">
+  <img align="right" src="banner.png" height="200">
   <p align="left">im iio, an associate cloud engineer. im learning all about aws, the cloud, linux, git, and other technologies that are used at my workplace</p>
   <ul align="left">
     <li> aged 21</li>
