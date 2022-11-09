@@ -1,4 +1,4 @@
-<img src="banner.png" height="500" width="1500">
+<img src="banner.png" height="250" width="1500">
 
 <div align="center">
   <h2 align="left">about me 😶‍</h2>
