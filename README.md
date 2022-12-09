@@ -5,8 +5,8 @@
   <img align="right" src="banner2.png" height="250" width="450">
   <p align="left">im *, an associate cloud engineer. im learning all about aws, the cloud, linux, git, and other technologies that are used at my workplace</p>
   <ul align="left">
-    <li> aged 21</li>
+    <li> 21!</li>
     <li> based in london</li>
-    <li> uhm.... idk</li>
+    <li> uhm... idk</li>
   </ul>
 </div>
